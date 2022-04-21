@@ -42,10 +42,10 @@ public class Main {
             System.out.println("Потребуется 1 день на доставку карты.");
         }
         else if (deliveryDistance >= 20 && deliveryDistance < 60) {
-            System.out.println("Потребуется 2 деня на доставку карты.");
+            System.out.println("Потребуется 2 дня на доставку карты.");
         }
         else if (deliveryDistance >= 60 && deliveryDistance <= 100) {
-            System.out.println("Потребуется 3 деня на доставку карты.");
+            System.out.println("Потребуется 3 дня на доставку карты.");
         }
         else {
             System.out.println("Пожалуйста, посетите наш офис, чтобы получить карту.");
